@@ -1,0 +1,2 @@
+# mydocs
+wiki for blog
